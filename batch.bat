@@ -1,3 +1,3 @@
 @echo off
-start java -jar pdf_splitter.jar
+java -jar pdf_splitter.jar
 pause
